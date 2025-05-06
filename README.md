@@ -1,2 +1,3 @@
 # nvda-prediction
-Nvidia price prediction using random forest
+Simple ML Model to Predict NVDA Stock Price
+
